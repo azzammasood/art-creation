@@ -1,2 +1,2 @@
 # artgeneration
-Art Generation using Neural Style Transfer
+Art Generation with Neural Style Transfer
